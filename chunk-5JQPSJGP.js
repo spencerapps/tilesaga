@@ -1,0 +1,1 @@
+import{a as t}from"./chunk-MK3NV3L2.js";function l(r){if(t.openExternal){r.preventDefault();try{let e=r.target;for(;e&&!(e instanceof HTMLAnchorElement);)e=e.parentElement;if(e&&e instanceof HTMLAnchorElement){let n=e.getAttribute("href")||"";t.openExternal(n)}}catch(e){console.error(e)}}}export{l as a};
